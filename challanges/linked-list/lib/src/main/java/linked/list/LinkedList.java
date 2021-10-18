@@ -1,28 +1,42 @@
-public Class LinkedList <T>{
-        Node newNode = new Node (value);
-        newNode.next=head;
-        head = newNode ;
-        }
+package linked.list;
 
-        boolean includes (T value){
-        Node current =head ;
-        while(current.next != null){
-        if(current.value.equals(value)){
-        return true;
+public class LinkedList<T>{
+    Node head;
 
-        }
-        current = current.next ;
+    public LinkedList(){
+       head = null;
+    }
 
+    public void insert(T value){
+        Node newNode = new Node(value);
+        newNode.next= head;
+        head= newNode;
+    }
+
+    public boolean includes(T value){
+        Node current = head;
+        while (current !=null){
+            if(current.value==value){
+                return true;
+            }
+            else{
+                current=current.next;
+            }
         }
-        return false ;
-        }
-@override
-Public String toString (){
-        Node current = head ;
-        while(current !=null){
-        result+="{"+current.value+"}->";
-        current = current.next;
-        }
-        result +="Null";
-        return result;
-        }
+        return false;
+
+    }
+
+    @Override
+    public String toString() {
+      Node current = head;
+      String result = "";
+      while (current!=null){
+          result+="{ "+current.value+"}->";
+          current= current.next;
+      }
+      result+="null";
+      return result;
+    }
+
+}
