@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30274988-3b0c-4e40-98b3-ffe11b99a3b1" name="Changes" comment="done code challange 5">
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-insert-shift/array-insert-shift.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../array-insert-shift/array-insert-shift.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-reverse/array-reverse.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../array-reverse/array-reverse.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-reverse/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../array-reverse/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/main/java/linked/list/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/main/java/linked/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/linked/list/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/main/java/linked/list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/linked/list/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/test/java/linked/list/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/test/java/linked/list/LibraryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="30274988-3b0c-4e40-98b3-ffe11b99a3b1" name="Changes" comment="done code challange 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/JavaFundemantal401" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
