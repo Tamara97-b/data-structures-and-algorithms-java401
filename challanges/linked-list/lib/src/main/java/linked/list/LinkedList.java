@@ -90,6 +90,27 @@ public class LinkedList<T>{
 
     }
 }
-
+    public int kthFromEnd(int k){
+        current = head;
+        Node trackerNode = head;
+        int count = 0;
+        if(k<0){
+            throw new IndexOutOfBoundsException();
+        }
+        try{
+            while(count <= k){
+                current = current.next;
+                count++;
+            }
+            while (current != null){
+                current = current.next;
+                trackerNode = trackerNode.next;
+            }
+        }catch (Exception e){
+            throw new IndexOutOfBoundsException();
+        }
+        System.out.println("\n" + k + "th Node from the last contains: " + Objects.requireNonNull(trackerNode).value);
+        return trackerNode.value;
+    }
 
 }
