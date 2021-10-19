@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b00ef0d-271a-4c31-9625-17d1db5ae1f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/challanges/data-structure401/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/data-structure401/data-structure401.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/linked-list/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
