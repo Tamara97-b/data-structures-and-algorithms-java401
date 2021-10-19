@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b00ef0d-271a-4c31-9625-17d1db5ae1f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/array-insert-shift/array-insert-shift.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/array-insert-shift/array-insert-shift.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/array-reverse/array-reverse.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/array-reverse/array-reverse.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/array-reverse/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/array-reverse/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/linked-list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/lib/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/linked-list/lib/src/main/java/linked/list/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/lib/src/test/java/linked/list/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/challanges/linked-list/lib/src/test/java/linked/list/LibraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challanges/linked-list/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zanj18R9o9Q5ZuQXh62EAqWIUV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b00ef0d-271a-4c31-9625-17d1db5ae1f7" name="Changes" comment="" />
+      <created>1634395198360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634395198360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
