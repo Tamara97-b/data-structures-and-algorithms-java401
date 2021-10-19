@@ -1,8 +1,10 @@
-package Class ;
-public Node<T>{
-    public Node next ;
-    public value ;
-    public Node (T value ){
-        this.value = value ;
+package linked.list;
+
+public class Node<T> {
+    public T value ;
+    Node<T> next ;
+
+    public Node(T value) {
+        this.value = value;
     }
 }
